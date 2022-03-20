@@ -5,7 +5,7 @@ build:
 	@ echo "Program compiled successfully"
 
 run: main
-	./main 16 100000000
+	./main 16 1000000000
 
 clean: main
 	rm main
